@@ -13,7 +13,7 @@
 using namespace std;
 
 int main() {
-	Communicate temp("temp.txt");
+	Communicate temp("textDatabase.txt");
 
 	temp.startingChoice();
 	cout << "Koniec!" << endl;

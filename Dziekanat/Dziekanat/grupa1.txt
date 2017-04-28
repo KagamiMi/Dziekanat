@@ -1,26 +1,11 @@
-Informatyka, semestr 4, grupa 2
+Informatyka, semestr 4, grupa 1
 --------------------
-Wtorek
+Poniedzialek
 --------------------
 BD
 laboratorium
-10:30 - 13:30
+08:30 - 11:30
 830
-Mikolaj Kowalik
-
-PK
-laboratorium
-14:00 - 15:30
-526
-Maciej Budka
-
---------------------
-Sroda
---------------------
-JA
-laboratorium
-10:00 - 11:30
-526
-Krzysztof Komin
+Anna Kowalska
 
 --------------------
