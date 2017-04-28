@@ -8,7 +8,7 @@ Date::Date() {
 
 }
 
-Date::Date(int _day, int _month, int _year) //jeszcze raz przeanalizowac ten algorytm czy ok i opisac
+Date::Date(int _day, int _month, int _year) 
 {	
 	bool wrongYear = 0, wrongMonth = 0, wrongDay = 0;
 	//sprawdzenie czy dobrze podana data - inaczej wyj¹tek

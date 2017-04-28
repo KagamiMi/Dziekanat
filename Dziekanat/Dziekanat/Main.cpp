@@ -6,7 +6,7 @@
 #include "Day.h"
 #include "Lesson.h"
 #include "Time.h"
-//#include <vld.h>
+//#include <vld.h> sprawdzanie wyciekow pamieci
 #include "Week.h"
 #include "Schedule.h"
 #include "Communicate.h"
