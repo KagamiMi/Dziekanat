@@ -6,7 +6,7 @@
 #include "Day.h"
 #include "Lesson.h"
 #include "Time.h"
-#include <vld.h>
+//#include <vld.h>
 #include "Week.h"
 #include "Schedule.h"
 #include "Communicate.h"
